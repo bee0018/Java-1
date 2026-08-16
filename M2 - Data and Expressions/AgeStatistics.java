@@ -3,8 +3,8 @@ import java.util.Scanner;
 /**
 *Using I/O Interactions to manipulate inputs and outputs.
 *Activity 02 
-*@ Bryce Ellis- COMP-1210-001
-*@ 1-17-2020
+*@author Bryce Ellis- COMP-1210-001
+*@date 1-17-2020
 */
 public class AgeStatistics {
 
